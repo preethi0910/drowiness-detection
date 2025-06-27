@@ -1,0 +1,12 @@
+John Doe
+Email: john@example.com
+
+Summary:
+Experienced software engineer with background in web development, backend APIs, and database design.
+
+Skills:
+Python, Django, PostgreSQL, Git, REST APIs
+
+Experience:
+- Built backend APIs for e-commerce apps.
+- Worked with PostgreSQL and optimized queries
